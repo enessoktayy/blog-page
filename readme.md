@@ -1,0 +1,1 @@
+Figma'da tasarlanmış olan blog satfasının html ve css kodlarını yazarak bu ödevi tamamlayacağım.
