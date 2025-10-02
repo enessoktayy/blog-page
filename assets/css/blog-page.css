@@ -63,8 +63,9 @@ body{
   padding-right:24px;
 }
 
-.max-creative-text{
-  align-items: center;
+.max-creative-text h4{
+  font-size: 20px;
+  padding-bottom: 16px;  
 }
 
 .quote{
@@ -88,6 +89,11 @@ body{
 .apple-watch{
   padding-bottom: 160px;
   padding-top: 80px;
+}
+
+.apple-watch-text h4{
+  font-size: 20px;
+  padding-bottom: 16px;
 }
 
 .apple-watch img{
